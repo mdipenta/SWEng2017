@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9003b648_c4e527d1",
+        "filename": "a.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1012490
+      },
+      "writtenOn": "2017-09-28T14:28:59Z",
+      "side": 1,
+      "message": "This should go",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 1,
+        "endChar": 5
+      },
+      "revId": "e01b15fd83b926bfb2f9a32c4c471aab5a6af98b",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
